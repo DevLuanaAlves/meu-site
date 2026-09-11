@@ -350,10 +350,7 @@ section { padding: 90px 0; }
     color: var(--text);
 }
 
-.stat-label {
-    color: var(--text-muted);
-    font-size: 13px;
-}
+
 
 /* ---------- Habilidades ---------- */
 .skills { background: var(--bg); border-top: 1px solid var(--border); }
